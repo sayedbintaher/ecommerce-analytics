@@ -1,0 +1,101 @@
+product_id,product_name,category_id,brand,price,cost,stock
+P0001,NovaTech Wireless Headphones,1,NovaTech,11.93,8.4,57
+P0002,UrbanThread Cotton T-Shirt,2,UrbanThread,232.68,133.62,139
+P0003,Hearth & Home Coffee Maker,3,Hearth & Home,132.26,107.93,23
+P0004,TrailPeak Yoga Mat,4,TrailPeak,75.59,44.95,143
+P0005,PageTurner Productivity Guide,5,PageTurner,228.97,130.02,107
+P0006,PureGlow Moisturizer,6,PureGlow,118.16,83.06,1
+P0007,PlayForge Puzzle Set,7,PlayForge,186.78,126.87,39
+P0008,WellSpring Yoga Block,8,WellSpring,253.41,172.47,23
+P0009,MotorWorks Phone Mount,9,MotorWorks,39.48,21.02,67
+P0010,FreshFields Coffee Beans,10,FreshFields,215.73,132.43,96
+P0011,NovaTech Bluetooth Speaker,1,NovaTech,188.51,101.16,92
+P0012,UrbanThread Hoodie,2,UrbanThread,158.29,128.0,58
+P0013,KitchenPro Water Bottle,3,KitchenPro,334.27,177.4,25
+P0014,Motion Training Ball,4,Motion,90.42,52.92,93
+P0015,PageTurner Mystery Novel,5,PageTurner,94.57,69.15,68
+P0016,CareCo Shampoo,6,CareCo,290.16,168.85,43
+P0017,PlayForge Board Game,7,PlayForge,49.26,32.76,142
+P0018,WellSpring Digital Scale,8,WellSpring,233.33,124.49,14
+P0019,RoadReady Car Charger,9,RoadReady,274.1,148.64,102
+P0020,DailyHarvest Green Tea,10,DailyHarvest,30.21,15.65,145
+P0021,SoundWave Laptop Stand,1,SoundWave,66.25,41.42,117
+P0022,UrbanThread Running Jacket,2,UrbanThread,70.73,50.62,143
+P0023,Nestwell Storage Set,3,Nestwell,83.78,50.24,149
+P0024,Motion Hiking Backpack,4,Motion,135.28,67.71,35
+P0025,OpenShelf Data Science Handbook,5,OpenShelf,24.75,20.0,28
+P0026,PureGlow Face Cleanser,6,PureGlow,209.83,114.43,108
+P0027,PlayForge Building Blocks,7,PlayForge,120.25,71.72,119
+P0028,VitaCare Massage Roller,8,VitaCare,330.34,174.91,2
+P0029,RoadReady Trunk Organizer,9,RoadReady,202.03,123.98,68
+P0030,DailyHarvest Olive Oil,10,DailyHarvest,36.57,23.63,116
+P0031,NovaTech Smart Watch,1,NovaTech,326.67,171.87,67
+P0032,UrbanThread Jeans,2,UrbanThread,119.97,93.35,76
+P0033,Nestwell Desk Lamp,3,Nestwell,126.87,93.35,95
+P0034,TrailPeak Resistance Bands,4,TrailPeak,180.34,98.93,135
+P0035,PageTurner Cooking Basics,5,PageTurner,174.06,109.41,28
+P0036,Luma Sunscreen,6,Luma,295.95,158.66,78
+P0037,PlayForge Card Game,7,PlayForge,27.0,14.19,20
+P0038,WellSpring Sleep Mask,8,WellSpring,246.09,132.82,136
+P0039,RoadReady Tire Gauge,9,RoadReady,42.03,26.6,140
+P0040,FreshFields Oatmeal Pack,10,FreshFields,96.13,50.65,108
+P0041,Apex USB-C Hub,1,Apex,302.19,167.49,51
+P0042,Everyday Co. Sneakers,2,Everyday Co.,128.95,74.22,95
+P0043,KitchenPro Frying Pan,3,KitchenPro,253.43,162.33,63
+P0044,TrailPeak Camping Lantern,4,TrailPeak,18.58,15.27,141
+P0045,PageTurner Travel Journal,5,PageTurner,129.7,107.57,15
+P0046,PureGlow Hair Brush,6,PureGlow,19.43,15.86,84
+P0047,PlayForge Science Kit,7,PlayForge,134.44,94.49,124
+P0048,WellSpring Water Filter,8,WellSpring,175.93,98.91,146
+P0049,MotorWorks Cleaning Kit,9,MotorWorks,73.82,46.77,104
+P0050,FreshFields Snack Box,10,FreshFields,35.58,20.6,90
+P0051,PixelWorks Webcam,1,PixelWorks,144.38,76.35,13
+P0052,Northline Backpack,2,Northline,26.15,14.67,27
+P0053,Hearth & Home Bed Sheet Set,3,Hearth & Home,61.45,37.72,35
+P0054,Motion Running Belt,4,Motion,56.98,36.29,19
+P0055,OpenShelf History Collection,5,OpenShelf,275.57,146.21,25
+P0056,PureGlow Body Lotion,6,PureGlow,193.9,118.78,3
+P0057,PlayForge Plush Toy,7,PlayForge,313.86,167.04,42
+P0058,VitaCare Fitness Tracker,8,VitaCare,122.66,89.47,102
+P0059,RoadReady Seat Cover,9,RoadReady,39.63,32.98,99
+P0060,DailyHarvest Pasta Bundle,10,DailyHarvest,305.42,167.07,73
+P0061,PixelWorks Keyboard,1,PixelWorks,225.91,126.6,142
+P0062,Mode Cap,2,Mode,44.9,31.24,14
+P0063,Nestwell Food Container,3,Nestwell,166.7,133.49,80
+P0064,TrailPeak Gym Gloves,4,TrailPeak,20.29,12.83,135
+P0065,PageTurner Short Stories,5,PageTurner,22.5,14.01,47
+P0066,PureGlow Lip Balm,6,PureGlow,189.21,108.73,60
+P0067,BrightMind Art Set,7,BrightMind,48.0,25.1,63
+P0068,WellSpring Foam Roller,8,WellSpring,173.51,113.01,149
+P0069,MotorWorks Dash Camera,9,MotorWorks,229.75,168.51,80
+P0070,FreshFields Granola,10,FreshFields,66.21,50.75,76
+P0071,PixelWorks Portable Charger,1,PixelWorks,107.46,59.65,18
+P0072,Northline Socks,2,Northline,169.22,84.66,25
+P0073,Hearth & Home Toaster,3,Hearth & Home,158.26,98.62,33
+P0074,Motion Insulated Flask,4,Motion,302.7,159.03,94
+P0075,OpenShelf Language Workbook,5,OpenShelf,59.3,31.76,77
+P0076,CareCo Skin Care Set,6,CareCo,326.98,177.16,135
+P0077,PlayForge Strategy Game,7,PlayForge,199.77,121.54,26
+P0078,WellSpring First Aid Kit,8,WellSpring,96.64,50.55,141
+P0079,RoadReady Emergency Kit,9,RoadReady,87.44,51.93,87
+P0080,FreshFields Spice Set,10,FreshFields,235.29,125.0,129
+P0081,PixelWorks Wireless Headphones,1,PixelWorks,92.86,48.2,13
+P0082,Northline Cotton T-Shirt,2,Northline,215.47,115.63,11
+P0083,Hearth & Home Coffee Maker,3,Hearth & Home,81.81,62.71,67
+P0084,TrailPeak Yoga Mat,4,TrailPeak,220.7,134.46,109
+P0085,PageTurner Productivity Guide,5,PageTurner,46.34,23.69,38
+P0086,CareCo Moisturizer,6,CareCo,15.46,10.34,141
+P0087,PlayForge Puzzle Set,7,PlayForge,98.23,79.64,93
+P0088,WellSpring Yoga Block,8,WellSpring,221.91,162.21,63
+P0089,RoadReady Phone Mount,9,RoadReady,109.17,66.25,104
+P0090,FreshFields Coffee Beans,10,FreshFields,231.93,166.93,41
+P0091,Apex Bluetooth Speaker,1,Apex,194.11,159.13,85
+P0092,Mode Hoodie,2,Mode,274.59,145.19,63
+P0093,KitchenPro Water Bottle,3,KitchenPro,56.39,32.02,97
+P0094,TrailPeak Training Ball,4,TrailPeak,213.73,155.11,117
+P0095,OpenShelf Mystery Novel,5,OpenShelf,105.97,57.71,58
+P0096,PureGlow Shampoo,6,PureGlow,11.05,8.16,84
+P0097,BrightMind Board Game,7,BrightMind,308.12,156.13,71
+P0098,VitaCare Digital Scale,8,VitaCare,177.66,116.9,137
+P0099,MotorWorks Car Charger,9,MotorWorks,218.79,169.31,66
+P0100,FreshFields Green Tea,10,FreshFields,210.96,106.18,9

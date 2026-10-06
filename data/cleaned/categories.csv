@@ -1,0 +1,11 @@
+category_id,category_name,parent_category_id
+1,Electronics,
+2,Fashion,
+3,Home & Kitchen,
+4,Sports & Outdoors,
+5,Books,
+6,Beauty & Personal Care,
+7,Toys & Games,
+8,Health & Wellness,
+9,Automotive,
+10,Grocery,
